@@ -1,12 +1,14 @@
 ---
 title: "Impressions (7days)- Mexico"  
 excerpt: "What you expect to see in Mexico upon arrival"  
-
 categories:
--summary
-
+  - Summary
 tags:
--travel, food, people, 2021, winter
+  - travel
+  - food
+  - people
+  - 2021
+  - winter
 ---
 
 What I felt during the first week upon arrival:  
